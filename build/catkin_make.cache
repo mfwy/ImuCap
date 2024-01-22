@@ -1,0 +1,2 @@
+HWT605TTL:MTi
+-DCATKIN_DEVEL_PREFIX=/home/zhang/ImuCap/devel -DCMAKE_INSTALL_PREFIX=/home/zhang/ImuCap/install -G Unix Makefiles
