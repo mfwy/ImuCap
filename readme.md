@@ -1,0 +1,2 @@
+This is a tool to capture some IMU raw inputs by serial port and pack them into ros message. The ros topic can be used to collected the gyroscope and acceleration data for allan variance analysis (https://github.com/ori-drs/allan_variance_ros)
+- The currently supported IMU type is HWT605-TTL and MTi-G-700
